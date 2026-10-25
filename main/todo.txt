@@ -1,0 +1,35 @@
+/*
+TODO:
+   - Passar para novo projeto
+OK - Corrigir o BUG do under voltage
+   - Adicionar lógica das máscaras de under current/under voltage e over current/over voltage
+OK - Testar entrar com a portadora de corrente na hora errada
+OK - Testar interromper a portadora da pressão
+   - Testar exceder os limites de pressão
+   OK - Máxima
+      - Mínima
+   - Limpar o código dos buffers
+   - Adicionar error de rede instável
+OK - Adicionar lógica de piscar os LEDs
+   - Arrumar os GPIOs
+   - Adicionar os semáforos onde necessário
+
+
+*/
+
+/*
+BOM
+-2 x Relé 5V 220V/20A
+-2 x barra de pinos fêmea de 15 pinos
+-1 x borne fêmea de 10 pinos
+-Malha para dessoldagem
+-Placa padrão
+-Caixa com pelo menos 4 cm de espaço interno
+-Capacitores de 100 nF
+-Resistores
+-LEDs
+-LM324?
+-Varistor?
+-Fonte?
+-Ferro de solfa?
+*/
